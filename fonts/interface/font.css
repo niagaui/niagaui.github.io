@@ -1,0 +1,38 @@
+/*Medium*/
+
+@font-face {
+    font-family: 'Interface';
+    src: url('Interface-Medium.eot');
+    src: url('Interface-Medium.eot?#iefix') format('embedded-opentype'),
+         url('Interface-Medium.woff') format('woff'),
+         url('Interface-Medium.woff2') format('woff2'),
+         url('Interface-Medium.svg') format('svg'),
+         url('Interface-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+/*Reguler*/
+@font-face {
+    font-family: 'Interface';
+    src: url('Interface-Regular.eot');
+    src: url('Interface-Regular.eot?#iefix') format('embedded-opentype'),
+         url('Interface-Regular.woff') format('woff'),
+         url('Interface-Regular.woff2') format('woff2'),
+         url('Interface-Regular.svg') format('svg'),
+         url('Interface-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+/*Bold*/
+@font-face {
+    font-family: 'Interface';
+    src: url('Interface-Bold.eot');
+    src: url('Interface-Bold.eot?#iefix') format('embedded-opentype'),
+         url('Interface-Bold.woff') format('woff'),
+         url('Interface-Bold.woff2') format('woff2'),
+         url('Interface-Bold.svg') format('svg'),
+         url('Interface-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
